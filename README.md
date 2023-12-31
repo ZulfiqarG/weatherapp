@@ -12,7 +12,7 @@
 <a href="https://github.com/ZulfiqarG/weatherapp"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="https://mdyeates.github.io/weather-app/">View Live Deployment</a>
+<a href="https://weatherappzs.netlify.app/">View Live Deployment</a>
 ·
 <a href="https://github.com/ZulfiqarG/weatherapp/issues">Report Bug</a>
 ·
